@@ -9,19 +9,19 @@ div{
 .rojo{
 	background-color: red;
 	position: static;
-	left: 50px;
+
 }
 
 .azul{
 	background-color: blue;
 	position: relative;
-
 	left: 200px;
+
 }
 
 .amarillo{
 	background-color: yellow;
-	position: relative;
+	position: static;
 
 }
 
