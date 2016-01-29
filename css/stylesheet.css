@@ -8,20 +8,34 @@ div{
 
 .rojo{
 	background-color: red;
-	position: static;
+	position: absolute;
+	left: 0;
+	top: 0;
 
 }
 
 .azul{
 	background-color: blue;
-	position: relative;
-	left: 200px;
+	position: absolute;
+	right: 0;
+	top: 0;
+
 
 }
 
 .amarillo{
 	background-color: yellow;
-	position: static;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+
+}
+
+.green{
+	background-color: yellow;
+	position: absolute;
+	right: 0;
+	bottom: 0;
 
 }
 
